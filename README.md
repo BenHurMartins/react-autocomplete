@@ -19,5 +19,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 This autocomplete implements a search for characters from Rick and Morty series. If you aren't familiar with the show, you can browse by the main characters' name, Rick/Morty.
 
 The solution also have the option to have a callback to handle the click for external user.
-
-In order to archive this I used NextJS as framework and no css framework, only pure css. I choose to use NextJS because React's recommendation and basically is the easiest way to start a project today.
